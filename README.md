@@ -10,7 +10,7 @@
   "name": "project name",
   "company": "company name",
   "releaseDate": "2018-05-24",
-  "siteUrl": "site url",
+  "siteUrl": "official website url",
   "logoUrl": "logo url",
   "description": "project description"
 }
