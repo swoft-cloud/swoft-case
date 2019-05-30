@@ -6,5 +6,13 @@
     "siteUrl": "https://www.westartrack.com/",
     "logoUrl": "https://static.westarcloud.com/5c34111b4db67f105c4f608a/images/footlogo.png",
     "description": "星轨询盘管理是一款专门为企业开发的一套询盘管理信息系统，主要解决企业在信息流转过程中的跟踪和管理。"
+  },
+  {
+    "name": "妈咪店收银系统",
+    "company": "南京多麦信息技术有限公司",
+    "releaseDate": "2018-03-13",
+    "siteUrl": "http://www.mamidian.com/",
+    "logoUrl": "http://img2.ciurl.cn/flashsale/upload/default-logo-mamidian.png",
+    "description": "妈咪店母婴新零售系统，重新定义互联网智慧母婴"
   }
 ]
