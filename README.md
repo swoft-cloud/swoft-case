@@ -3,15 +3,16 @@
 ## Case
 
 - **see [Use Cases](case.json)**
-- case template
+- case template `JSON`
 
 ```json
 {
   "name": "project name",
   "company": "company name",
   "releaseDate": "2018-05-24",
+  "coverUrl": "cover iamge url",
   "siteUrl": "official website url",
-  "logoUrl": "logo url",
+  "logoUrl": "your logo url",
   "description": "project description"
 }
 ```
