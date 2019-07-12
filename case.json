@@ -22,5 +22,14 @@
     "siteUrl": "",
     "logoUrl": "http://www.yunfanapi.top/static/images/logo.jpg",
     "description": "泛资源小程序是一款收集学习资源，然后供用户免费获取的资源的小程序"
+  },
+  {
+  "name": "渝欧股份",
+  "company": "重庆渝欧跨境电子商务股份有限公司",
+  "releaseDate": "2019-07-12",
+  "logoUrl": "http://nwzimg.wezhan.cn/contents/sitefiles2030/10150711/images/7766431.png",
+  "coverUrl": "http://nwzimg.wezhan.cn/contents/sitefiles2030/10150711/images/7766431.png",
+  "siteUrl": "http://www.yuoucn.com/",
+  "description": "全国跨境电商首批试点企业，主要从事母婴类消费品跨境进口的国有控股混合制跨境电商平台"
   }
 ]
