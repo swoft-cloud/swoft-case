@@ -40,5 +40,14 @@
     "coverUrl": "https://www.xinchao.com/img/logo.9cee6484.png",
     "siteUrl": "https://www.xinchao.com",
     "description": "新潮售卖平台网关服务"
+  },
+  {
+    "name": "扬华律师事务所",
+    "company": "重庆扬华律师事务所",
+    "releaseDate": "2019-8-12",
+    "logoUrl": "https://ccdn.goodq.top/caches/e4498fb8159f9c2e7bf301e8ac446912/aHR0cDovL3d3dy55YW5naHVhbGF3LmNvbS9xZnktY29udGVudC91cGxvYWRzLzIwMTgvMDEvNzQzOTVlMjg2MTNlNmQzN2M5N2ZjN2RjMzMyNWQ0MjkucG5n.png",
+    "coverUrl": "https://ccdn.goodq.top/caches/e4498fb8159f9c2e7bf301e8ac446912/aHR0cDovL3d3dy55YW5naHVhbGF3LmNvbS9xZnktY29udGVudC91cGxvYWRzLzIwMTgvMDEvNzQzOTVlMjg2MTNlNmQzN2M5N2ZjN2RjMzMyNWQ0MjkucG5n.png",
+    "siteUrl": "http://www.yanghualaw.com/",
+    "description": "扬华律师事务所权限产品都使用了swoft进行开发"
   }
 ]
