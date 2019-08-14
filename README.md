@@ -1,13 +1,15 @@
 # Swoft Case
 
-Swoft project case collection.
+Swoft Project Case Collection.
 
-If you use the Swoft development project, welcome to provide a case! We will show on the [official website](https://swoft.org/).
+If you use the Swoft development project, welcome to provide a case!
+
+We will show on the [official website](https://www.swoft.org/case.html).
 
 ## Case
 
 - **see [Use Cases](case.json)**
-- case template `JSON`
+- Case template `JSON`
 
 ```json
 {
