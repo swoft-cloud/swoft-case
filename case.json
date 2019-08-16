@@ -58,5 +58,14 @@
     "coverUrl": "https://s1.xinstatic.com/xin/images/common/logo.png",
     "siteUrl": "https://www.xin.com",
     "description": "内部服务系统研发"
+  },
+   {
+    "name": "闪修侠",
+    "company": "闪修侠",
+    "releaseDate": "2018-12-01",
+    "logoUrl": "https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike180%2C5%2C5%2C180%2C60/sign=358349a270c6a7efad2ba0749c93c434/b03533fa828ba61e7a4124524734970a304e5924.jpg",
+    "coverUrl": "https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike180%2C5%2C5%2C180%2C60/sign=358349a270c6a7efad2ba0749c93c434/b03533fa828ba61e7a4124524734970a304e5924.jpg",
+    "siteUrl": "http://www.shanxiuxia.com/",
+    "description": "多业务线开发，涉及支付系统，对外api接口等"
   }
 ]
