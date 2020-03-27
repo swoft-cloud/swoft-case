@@ -67,5 +67,13 @@
    "coverUrl": "https://cdn.shengxiao2.com/images/logo/logo.jpeg",
    "siteUrl": "http://shengxiao2.com/",
    "description": "为2亿车主提供综合生活服务"
- }
+ },
+{
+    "name": "物联码云",
+    "company": "迈迪信息技术有限公司",
+    "releaseDate": "2019-07-27",
+    "siteUrl": "https://www.wulianmayun.com/",
+    "logoUrl": "https://www.wulianmayun.com/wlmstatic/images/navtop/logo.png",
+    "description": "工业互联网标识解析应用平台"
+  }
 ]
